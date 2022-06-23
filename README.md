@@ -1,11 +1,14 @@
 # Echo Arena Streaming Tool
+![licence](https://img.shields.io/github/license/notblue-dev/east?style=for-the-badge)
+![package](https://img.shields.io/github/package-json/v/notblue-dev/east/master?style=for-the-badge)
+![commit](https://img.shields.io/github/commit-activity/w/notblue-dev/east?style=for-the-badge)
+![languages](https://img.shields.io/github/languages/top/notblue-dev/east?style=for-the-badge)
+![lines](https://img.shields.io/tokei/lines/github/notblue-dev/east?style=for-the-badge)
 
-### NA VRML teams are going to be included before next season /!\
+EAST is an open source project to help streamers around the echo arena community to cast.\
+This project includes an auto scene manager, overlays for echo, auto spectate and VRML/Mixed support\
 
-## About 
-
-EAST is an open source project to help streamers around the echo arena community to cast.
-This project includes an auto scene manager, overlays for echo, auto spectate and VRML/Mixed support
+/!\ NA VRML teams are going to be included before next season /!\
 
 ## Preview
 
